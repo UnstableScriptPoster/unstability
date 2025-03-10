@@ -1,0 +1,7 @@
+if game.PlaceId == 4994661268 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/ujd-lite/refs/heads/main/main"))() -- ujd
+elseif game.PlaceId == 7150950346 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/singleplayer-lite/refs/heads/main/ujd"))() -- singleplayer
+elseif game.PlaceId == 5689878965 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/reaper/refs/heads/main/ujd"))() --ujd rc
+end
