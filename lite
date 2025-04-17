@@ -6,11 +6,13 @@ elseif game.PlaceId == 5689878965 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/reaper/refs/heads/main/ujd"))() --ujd rc
 elseif game.PlaceId == 14204959937 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/umc2-lite/refs/heads/main/bleh"))() --umc2
+elseif game.PlaceId == 6913960180 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/crazy-multiverse-lite/refs/heads/main/timelines"))() -- crazy multiverse timeline
+elseif game.PlaceId == 13754776367 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/remnants-lite/refs/heads/main/multiverses"))() -- Remnants of the multiverse
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/universal-lite/refs/heads/main/hngh"))() --main
 end
-
-
 
 
 
